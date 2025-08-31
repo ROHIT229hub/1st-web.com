@@ -33,3 +33,4 @@ const colorBtn = document.getElementById('colorBtn');
 colorBtn.addEventListener('click', () => {
   document.body.classList.toggle('alt-color');
 });
+
